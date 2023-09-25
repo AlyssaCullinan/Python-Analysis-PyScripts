@@ -21,7 +21,7 @@ The purpose of this challenge was to practice a real-world scenario using python
 ## Sources
 For this project I used multiple resources:
 
-1.[Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list) 2. [Python.engineering](https://python.engineering/dictionary-counter-python-find-winner-election/) 4. [YouTube - Python Dictionaries](https://youtu.be/khCzymLy_QE?si=E2udt9LaRVwkm_fu) 6. [YouTube - Python List Comprehension](https://youtu.be/SNq4C988FjU?si=603_9SN8qu2sRCvm) 7. Rewatched previous class videos 8. Chat GPT for code proofreading
+1.[Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list) 2. [Python.engineering](https://python.engineering/dictionary-counter-python-find-winner-election/) 4. [YouTube - Python Dictionaries](https://youtu.be/khCzymLy_QE?si=E2udt9LaRVwkm_fu) 6. [YouTube - Python List Comprehension](https://youtu.be/SNq4C988FjU?si=603_9SN8qu2sRCvm) 7. Rewatched previous class videos 8. Chat GPT for code proofreading 9. Ask BCS Support
 
 
 ## Contact
