@@ -3,7 +3,7 @@
 ## Overview
 This challenge was completed as part of the [Northwestern University Data Science and Visualization BootCamp](https://bootcamp.northwestern.edu/data/).
 
-The python file contains code analyzing financial records (PyBank) and election data (PyPoll). PyBank focuses on metrics like total profits/losses, average changes, and identifying fluctuations. PyPoll analyzes election data, providing information on voter turnout, candidate performance, and the election winner. 
+The python files contains code analyzing financial records (PyBank) and election data (PyPoll). PyBank focuses on metrics like total profits/losses, average changes, and identifying fluctuations. PyPoll analyzes election data, providing information on voter turnout, candidate performance, and the election winner. 
 
 
 ## Contents
