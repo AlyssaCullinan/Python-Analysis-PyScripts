@@ -24,7 +24,7 @@ The python file contains code analyzing financial records (PyBank) and election 
 * For Loops
 * CSV Reader Module
 * OS Module
-* 
+  
 ## Output
 Both files produce the analysis results in the terminal/console. Additionally, the results are exported to a text file named financial_analysis.txt for PyBank and election_results.txt for PyPoll.
 
