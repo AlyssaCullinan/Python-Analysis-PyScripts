@@ -24,9 +24,19 @@ The python files contains code analyzing financial records (PyBank) and election
 * For Loops
 * CSV Reader Module
 * OS Module
-  
+
+<br>
+
+<img width="699" alt="image" src="https://github.com/AlyssaCullinan/Python-Analysis-PyScripts/assets/141466633/bc4ccf48-8614-45fc-b25f-4c5ce026c0d4">
+<br>
+
 ## Output
 Both files produce the analysis results in the terminal/console. The results are also exported to a text file named financial_analysis.txt for PyBank and election_results.txt for PyPoll.
+
+<br>
+
+<img width="585" alt="image" src="https://github.com/AlyssaCullinan/Python-Analysis-PyScripts/assets/141466633/35a36648-9d01-436b-acbb-fd0b7941258b">
+<br>
 
 ## Sources
 For this project I used multiple resources:
